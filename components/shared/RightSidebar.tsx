@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import RenderTag from "../renderTag/RenderTag";
+import RenderTag from "./RenderTag";
 
 const RightSidebar = () => {
   const topQuestions = [
